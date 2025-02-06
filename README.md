@@ -1,5 +1,5 @@
 
-#TrOCR Text Recognition for Cyrillic Handwriting
+# TrOCR Text Recognition for Cyrillic Handwriting
 
 This project focuses on fine-tuning Microsoft's TrOCR (Transformer-based Optical Character Recognition) model to recognize handwritten Cyrillic text. The approach involves freezing early layers of the model and retraining it on a specialized dataset to improve accuracy for handwritten text in the Cyrillic script.
 
